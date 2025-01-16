@@ -1,6 +1,6 @@
-# vue3-basico
+# VUE3 BASIC
 
-Curso básico com contéudo iniciais sobre Vue3. 
+Basic course with initial content on Vue3.
 
 ## Customize configuration
 
