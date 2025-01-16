@@ -1,47 +1,34 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
-</script>
-
+<!-- HTML -->
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-    </div>
-  </header>
-
-  <main>
-    <TheWelcome />
-  </main>
+  <!-- <Exemplo01></Exemplo01> -->
+  <!-- <Exemplo02></Exemplo02> -->
+  <!-- <Exemplo03></Exemplo03> -->
+  <!-- <Exemplo04></Exemplo04> -->
+  <!-- <Exemplo05></Exemplo05> -->
+  <!-- <Exemplo06></Exemplo06> -->
+  <!-- <Exemplo07></Exemplo07> -->
+  <!-- <Exemplo08></Exemplo08> -->
+  <!-- <Exemplo09></Exemplo09> -->
+  <!-- <Exemplo10></Exemplo10> -->
+  <!-- <Exemplo11></Exemplo11> -->
+  <!-- <Exemplo12></Exemplo12> -->
+  <Exemplo13></Exemplo13>
 </template>
 
-<style scoped>
-header {
-  line-height: 1.5;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-}
-</style>
+<!-- SCRIPT -->
+<script setup>
+  // Importação dos componentes
+  // import Exemplo01 from './components/Exemplo01Interpolacao.vue';
+  // import Exemplo02 from './components/Exemplo02Condicional.vue';
+  // import Exemplo03 from './components/Exemplo03Laco.vue';
+  // import Exemplo04 from './components/Exemplo04HTML.vue';
+  // import Exemplo05 from './components/Exemplo05VModel.vue';
+  // import Exemplo06 from './components/Exemplo06Classe.vue';
+  // import Exemplo07 from './components/Exemplo07Clique.vue';
+  // import Exemplo08 from './components/Exemplo08Teclado.vue';
+  // import Exemplo09 from './components/Exemplo09Enviar.vue';
+  // import Exemplo10 from './components/Exemplo10LifeCycle.vue';
+  // import Exemplo11 from './components/Exemplo11Props1.vue';
+  // import Exemplo12 from './components/Exemplo12Rotas.vue';
+  import Exemplo13 from './components/Exemplo13Requisicao.vue';
+</script>
