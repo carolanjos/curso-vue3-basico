@@ -1,6 +1,6 @@
 # vue3-basico
 
-This template should help get you started developing with Vue 3 in Vite.
+Curso básico com contéudo iniciais sobre Vue3. 
 
 ## Customize configuration
 
